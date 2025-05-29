@@ -73,8 +73,6 @@ Engineered features include:
 
 - **Python (Pandas, NumPy, Matplotlib, Seaborn, Jupyter)** – For data cleaning and enrichment  
 - **Tableau Public** – For dynamic, interactive data storytelling  
-- *(Optional)* **Prophet / ARIMA** – For time series forecasting
-
 ---
 
 ## 📦 Dataset Sources
