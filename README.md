@@ -42,7 +42,7 @@ The Tableau dashboard includes:
 - 📆 **CO₂ Heatmap** – Year vs. day-of-year heatmap for visual seasonal patterns  
 - 🧭 **Polar Chart** – Radial view of seasonal CO₂ variation by day of year  
 - 📊 **CO₂ Distribution Over Time** – Histogram and KDE of concentrations by decade  
-- 🤖 **Forecasting (Optional)** – Predicted future CO₂ levels using statistical models
+- 🤖 **Forecasting** – Predicted future CO₂ levels using statistical models
 
 ---
 
