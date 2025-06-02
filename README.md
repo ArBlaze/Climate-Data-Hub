@@ -21,7 +21,9 @@ atmospheric-co2/
 ├── data/
 │   ├── co2_daily_raw.txt
 │   ├── co2_cleaned.csv
-│   └── co2_with_features.csv
+│   ├── features.csv
+│   ├── monthly_features.csv
+│   ├── forecast_future.csv
 ├── notebooks/
 │   └── co2_cleaning_and_features.ipynb
 ├── tableau/
@@ -88,6 +90,7 @@ Engineered features include:
 
 ## 🚧 To Do
 
+- [ ] Finalize Tableau storytelling dashboards  
 - [ ] Finalize Tableau storytelling dashboards  
 - [ ] Publish Keeling Curve animations using Pages Shelf  
 - [ ] Add interactive filters for seasonality and anomalies  
