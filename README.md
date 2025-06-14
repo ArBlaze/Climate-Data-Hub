@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Clean Energy Displacement Timeline
 
 ## Project Overview
